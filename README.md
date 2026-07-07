@@ -32,4 +32,3 @@ This project demonstrates the application of convolutional neural networks for i
 - Torchvision
 - NumPy
 - Matplotlib
-- OpenCV (if used)
